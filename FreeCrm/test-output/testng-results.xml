@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FreeCrmTests" duration-ms="101756" started-at="2020-02-12T15:29:19Z" finished-at="2020-02-12T15:31:01Z">
+    <groups>
+    </groups>
+    <test name="CRMTestCases" duration-ms="101756" started-at="2020-02-12T15:29:19Z" finished-at="2020-02-12T15:31:01Z">
+      <class name="com.FreeCrm.qa.TestCases.NewConatctpageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.FreeCrm.qa.TestCases.NewConatctpageTest@91161c7]" name="setUp" is-config="true" duration-ms="17173" started-at="2020-02-12T20:59:55Z" finished-at="2020-02-12T21:00:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createContactTest()[pri:0, instance:com.FreeCrm.qa.TestCases.NewConatctpageTest@91161c7]" name="createContactTest" duration-ms="4762" started-at="2020-02-12T21:00:12Z" finished-at="2020-02-12T21:00:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.FreeCrm.qa.TestCases.NewConatctpageTest@91161c7]" name="tearDown" is-config="true" duration-ms="5874" started-at="2020-02-12T21:00:17Z" finished-at="2020-02-12T21:00:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.FreeCrm.qa.TestCases.NewConatctpageTest -->
+      <class name="com.FreeCrm.qa.TestCases.HomepageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.FreeCrm.qa.TestCases.HomepageTest@5e3a8624]" name="setUp" is-config="true" duration-ms="20109" started-at="2020-02-12T21:00:23Z" finished-at="2020-02-12T21:00:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyHomepagetitleTest()[pri:1, instance:com.FreeCrm.qa.TestCases.HomepageTest@5e3a8624]" name="VerifyHomepagetitleTest" duration-ms="56" started-at="2020-02-12T21:00:43Z" finished-at="2020-02-12T21:00:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomepagetitleTest -->
+        <test-method status="PASS" signature="tearOff()[pri:0, instance:com.FreeCrm.qa.TestCases.HomepageTest@5e3a8624]" name="tearOff" is-config="true" duration-ms="784" started-at="2020-02-12T21:00:43Z" finished-at="2020-02-12T21:00:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearOff -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.FreeCrm.qa.TestCases.HomepageTest@5e3a8624]" name="setUp" is-config="true" duration-ms="13595" started-at="2020-02-12T21:00:44Z" finished-at="2020-02-12T21:00:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifydealslinktest()[pri:2, instance:com.FreeCrm.qa.TestCases.HomepageTest@5e3a8624]" name="verifydealslinktest" duration-ms="3005" started-at="2020-02-12T21:00:57Z" finished-at="2020-02-12T21:01:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydealslinktest -->
+        <test-method status="PASS" signature="tearOff()[pri:0, instance:com.FreeCrm.qa.TestCases.HomepageTest@5e3a8624]" name="tearOff" is-config="true" duration-ms="669" started-at="2020-02-12T21:01:00Z" finished-at="2020-02-12T21:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearOff -->
+      </class> <!-- com.FreeCrm.qa.TestCases.HomepageTest -->
+      <class name="com.FreeCrm.qa.TestCases.contactTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.FreeCrm.qa.TestCases.contactTest@5c3bd550]" name="setUp" is-config="true" duration-ms="16617" started-at="2020-02-12T20:59:37Z" finished-at="2020-02-12T20:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifynewContactBtn()[pri:0, instance:com.FreeCrm.qa.TestCases.contactTest@5c3bd550]" name="verifynewContactBtn" duration-ms="257" started-at="2020-02-12T20:59:54Z" finished-at="2020-02-12T20:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifynewContactBtn -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.FreeCrm.qa.TestCases.contactTest@5c3bd550]" name="tearDown" is-config="true" duration-ms="718" started-at="2020-02-12T20:59:54Z" finished-at="2020-02-12T20:59:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.FreeCrm.qa.TestCases.contactTest -->
+      <class name="com.FreeCrm.qa.TestCases.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.FreeCrm.qa.TestCases.LoginTest@1bce4f0a]" name="setUp" is-config="true" duration-ms="16446" started-at="2020-02-12T20:59:19Z" finished-at="2020-02-12T20:59:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginPageTest()[pri:0, instance:com.FreeCrm.qa.TestCases.LoginTest@1bce4f0a]" name="LoginPageTest" duration-ms="896" started-at="2020-02-12T20:59:36Z" finished-at="2020-02-12T20:59:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.FreeCrm.qa.TestCases.LoginTest@1bce4f0a]" name="tearDown" is-config="true" duration-ms="693" started-at="2020-02-12T20:59:37Z" finished-at="2020-02-12T20:59:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.FreeCrm.qa.TestCases.LoginTest -->
+    </test> <!-- CRMTestCases -->
+  </suite> <!-- FreeCrmTests -->
+</testng-results>

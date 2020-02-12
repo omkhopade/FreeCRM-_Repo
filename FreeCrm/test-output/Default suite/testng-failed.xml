@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="FreeCrmTests">
+  <test name="CRMTestCases">
+    <classes>
+      <class name="com.FreeCrm.qa.TestCases.LoginTest"></class> 
+      <class name="com.FreeCrm.qa.TestCases.HomepageTest"></class> 
+      <class name="com.FreeCrm.qa.TestCases.contactTest"></class> 
+      <class name="com.FreeCrm.qa.TestCases.NewConatctpageTest"></class> 
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
